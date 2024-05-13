@@ -13,9 +13,7 @@ If no one wins the match and all nine-box selected then again the playboard sect
 * `CSS`
 * `JavaScript`
 
-## How it looks 🎥
 
-**Live:** https://toxo-two.vercel.app/
 
 
 
