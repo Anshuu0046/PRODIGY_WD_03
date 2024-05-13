@@ -14,10 +14,3 @@ If no one wins the match and all nine-box selected then again the playboard sect
 * `JavaScript`
 
 
-
-
-
-
-
-https://user-images.githubusercontent.com/71933266/174468662-6e582a79-34eb-4056-815a-5b2857bf0073.mp4
-
